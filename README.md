@@ -10,11 +10,8 @@
 
 Here are some real-time snapshots of the app in action:
 
-![Snapshot 1](https://partyrock.aws/u/SREEHARINIJ/NWJ0laYfV/MediMate/snapshot/iPruDRxV4)  
-*Symptom explanation in natural language*
-
-![Snapshot 2](https://partyrock.aws/u/SREEHARINIJ/NWJ0laYfV/MediMate/snapshot/pNa-LYRkC)  
-*Medical term breakdown and suggestions*
+🔗 [Snapshot 1 – Symptom explanation](https://partyrock.aws/u/SREEHARINIJ/NWJ0laYfV/MediMate/snapshot/iPruDRxV4)  
+🔗 [Snapshot 2 – Medical term breakdown](https://partyrock.aws/u/SREEHARINIJ/NWJ0laYfV/MediMate/snapshot/pNa-LYRkC)
 
 ---
 
